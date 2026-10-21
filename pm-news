@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Run PM News Radar from anywhere: ./pm-news [--days N] [--max N] [--no-open] ...
+exec python3 "$(cd "$(dirname "$0")" && pwd)/pm_news.py" "$@"
