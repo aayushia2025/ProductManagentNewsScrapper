@@ -3,7 +3,7 @@
 
 1 - Worldwide news for product-management topics and builds an interactive HTML digest.
 
-2- Keep track of what's trending in products and startu-ups
+2- Keep track of what's trending in products and start-ups
 
 
 
