@@ -1,4 +1,4 @@
-# 📡 PM News Radar
+# 📡 WW Product News - on your fingertips
 
 
 1 - Worldwide news for product-management topics and builds an interactive HTML digest.
