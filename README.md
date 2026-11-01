@@ -1,6 +1,10 @@
 # 📡 PM News Radar
 
-Scans worldwide news for product-management topics and builds an interactive HTML digest. Pure Python 3 stdlib — no installs.
+
+1 - Worldwide news for product-management topics and builds an interactive HTML digest.
+2- Keep track of what's trending in products and startu-ups
+
+
 
 ## Run
 ```bash
